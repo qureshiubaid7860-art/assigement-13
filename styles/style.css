@@ -101,6 +101,15 @@ header{
   flex-wrap: wrap;
   padding: 10px 0px;
 }
+footer ul li {
+  padding: 5px 0px ;
+}
+footer p{
+   padding: 5px 0px ;
+}
+footer input{
+   padding: 10px 0px ;
+}
 
 .links {
   width: 80%;
