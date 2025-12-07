@@ -99,6 +99,7 @@ header{
 .footer {
   background-color: #3F1919;
   flex-wrap: wrap;
+  padding: 10px 0px;
 }
 
 .links {
