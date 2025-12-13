@@ -86,6 +86,7 @@ header{
   width: 250px;
   height: 166px;
   border-radius: 10px;
+   margin-top: -40px; 
 }
 
 .box button {
